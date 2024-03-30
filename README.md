@@ -39,3 +39,15 @@ binstr_replace
 ## 编译说明
 
 cl /LD /EHsc binstr_replace.cpp
+
+
+
+## 文件说明
+
+| 文件名             | 描述                |      |
+| ------------------ | ------------------- | ---- |
+| binstr_replace.cpp | 项目源文件          |      |
+| binstr_replace.h   | 项目头文件          |      |
+| binstr_replace.ahk | autohotkey 调用示例 |      |
+| binstr_replace.dll | dll接口文件         |      |
+
